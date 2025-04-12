@@ -5,3 +5,9 @@ A design pattern is a solution to the common problem in software design. In gene
 > it's like best practices that evolved over time after solving problems.
 
 There are 3 main types of design pattern, based on the kind of problems they solve.
+
+**.** Creational Patterns
+**.** Structural Patterns
+**.** Behavioural Patterns
+
+# Creattional Patterns
